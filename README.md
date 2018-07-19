@@ -1,2 +1,2 @@
 # machinelearningcoursera
-Andrew Ng's Machine Learning Coursera Assignments
+My assignments from Andrew Ng's machine learning course on Coursera. Includes my implementation of basic linear regression (ex.1), basic logistic regression (ex.2), the one-vs-all method for logistic regression (ex.3), the backpropagation algorithm for neural networks (ex.4), regularized linear regression (ex.5), support vector machines (ex.6), and K-means clustering and principal component analysis (ex.7). 
